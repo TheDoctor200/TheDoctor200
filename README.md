@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <!-- <title>Hi, I'm The Doctor</title>
+  <!-- <title>Hi, I'm TheDoctor</title>
   <style>
     @keyframes fadeInOut {
       0% { opacity: 0; }
@@ -14,7 +14,7 @@
   </style> -->
 </head>
 <body>
-  <h1 align="center">Hi, I'm The Doctor</h1>
+  <h1 align="center">Hi, I'm TheDoctor</h1>
   
   <p align="center">
     <a href="https://discord.gg/8sa3f6ZpJk">Join my Discord Server!</a>
