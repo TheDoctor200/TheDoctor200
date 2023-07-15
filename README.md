@@ -1,18 +1,35 @@
-</details>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hi, I'm The Doctor</title>
+  <style>
+    @keyframes fadeInOut {
+      0% { opacity: 0; }
+      50% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+    .animation {
+      animation: fadeInOut 3s linear infinite;
+    }
+  </style>
+</head>
+<body>
+  <h1 align="center">Hi, I'm The Doctor</h1>
+  
+  <p align="center">
+    <a href="https://discord.gg/8sa3f6ZpJk">Join my Discord Server!</a>
+  </p>
 
-<h1 align="center">Hi, I'm The Doctor</h1>
-<a href="[https://discord.com/invite/8sa3f6ZpJk]" align="center">Join my Discord Server!</a>
-
-
-<br/>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Hi+everyone;I+;I'm+The Doctor;Learning+web-development;Python+apps+developer"/>
-</p>
-<p align="center">
+  <br/>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Hi+everyone;I+am+The+Doctor;Learning+web-development;Python+apps+developer"/>
+  </p>
+  
+  <p align="center">
     <a href="https://github.com/TheDoctor200/">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lefeus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Lefeus's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-</p>
+  </p>
 
 ## 🚀 Languages and Tools:
 
