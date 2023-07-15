@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Hi, I'm The Doctor</title>
+  <!-- <title>Hi, I'm The Doctor</title>
   <style>
     @keyframes fadeInOut {
       0% { opacity: 0; }
@@ -11,7 +11,7 @@
     .animation {
       animation: fadeInOut 3s linear infinite;
     }
-  </style>
+  </style> -->
 </head>
 <body>
   <h1 align="center">Hi, I'm The Doctor</h1>
