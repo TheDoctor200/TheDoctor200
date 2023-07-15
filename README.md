@@ -22,7 +22,7 @@
 
   <br/>
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Hi+everyone;I+am+The+Doctor;Learning+web-development;Python+Apps+Developer"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=22&lines=Hi+everyone;I+am+TheDoctor;Learning+web-development;Python+Apps+Developer"/>
   </p>
   
   <p align="center">
