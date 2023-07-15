@@ -1,8 +1,5 @@
 </details>
 
-<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-4/1080000690035900428.png" height="1000px"/></a></p>
-
-
 <h1 align="center">Hi, I'm The Doctor</h1>
 <a href="[https://discord.com/invite/8sa3f6ZpJk]" align="center">Join my Discord Server!</a>
 
@@ -29,7 +26,7 @@
     <a href="https://github.com/TheDoctor200"><img alt="Doc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/TheDoctor200"><img alt="Docs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  <b>Note:</b> Gaming is fun, programing is better.
 
 <br/>
 <br/>
