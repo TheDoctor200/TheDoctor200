@@ -37,7 +37,7 @@
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
   </p>
 
-  <h2 align="center">📊 Github Stats</h2>
+  <h2 align="center">📊 Github Stats:</h2>
 
   <br/>
   <p align="center">
@@ -57,7 +57,7 @@
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Doc's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheDoctor200&bg_color=0d0c0c&color=5cfcff&line=00ccff&point=1a4675&area=true&hide_border=true" /></a>
   </p>
 
-  <h2 align="center">❤ Views and Followers</h2>
+  <h2 align="center">❤ Views and Followers:</h2>
   
   <p align="center">
     <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
