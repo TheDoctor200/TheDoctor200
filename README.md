@@ -27,18 +27,18 @@
 
   <br/>
     <a href="https://github.com/TheDoctor200"><img alt="Doc's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/TheDoctor200"><img alt="Docs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/TheDoctor200"><img alt="Docs's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <br/>
 <br/>
 
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Lefeus's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheDoctor200&bg_color=0d0c0c&color=5cfcff&line=00ccff&point=1a4675&area=true&hide_border=true" /></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img alt="Doc's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=TheDoctor200&bg_color=0d0c0c&color=5cfcff&line=00ccff&point=1a4675&area=true&hide_border=true" /></a>
 
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=lefeus">
+    <img src="https://komarev.com/ghpvc/?username=TheDoctor200">
 </a>
-<a href="https://github.com/lefeus?tab=followers"><img src="https://img.shields.io/github/followers/lefeus?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/lefeus?tab=followers"><img src="https://img.shields.io/github/followers/TheDoctor200?label=Followers&style=social" alt="GitHub Badge"></a>
