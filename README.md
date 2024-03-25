@@ -14,7 +14,7 @@
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TheDoctor200)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/TheDoctor200)
 
-**Note:** Gaming is fun, programming is better.
+**Note:** Gaming is much more fun, than programming.
 
 [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TheDoctor200&bg_color=0d0c0c&color=5cfcff&line=00ccff&point=1a4675&area=true&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
