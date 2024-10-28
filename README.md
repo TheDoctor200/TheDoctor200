@@ -1,6 +1,6 @@
 # Hi there, I'm TheDoctor! 👨‍⚕️
 
-[![Join My Discord Server](https://img.shields.io/discord/yourserverid?color=5BCDEC&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8sa3f6ZpJk) 
+[![Join My Discord Server](https://img.shields.io/discord/1046214271517868093?color=5BCDEC&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8sa3f6ZpJk) 
 ![Profile Views](https://komarev.com/ghpvc/?username=TheDoctor200&color=brightgreen) 
 ![Followers](https://img.shields.io/github/followers/TheDoctor200?label=Followers&style=social)
 
