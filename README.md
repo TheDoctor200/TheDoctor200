@@ -58,8 +58,7 @@
 
 - [Discord Server](https://discord.gg/8sa3f6ZpJk) 🎮
 - [My GitHub Profile](https://github.com/TheDoctor200)
-- Donate me something if you like my work and support me: 
-- 0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2 (ETH)
+- Donate me something if you like my work and support me: 0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2 (ETH)
 ---
 
 
