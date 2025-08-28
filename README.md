@@ -91,7 +91,7 @@ me.say_hi()
 ## 📊 **Development Activity**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDoctor200&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDoctor200&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
