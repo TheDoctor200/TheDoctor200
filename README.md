@@ -59,7 +59,7 @@
 ## 🏆 **Achievements & Trophies**
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=TheDoctor200&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheDoctor200" alt="GitHub Trophies"/>
 </div>
 
 ---
