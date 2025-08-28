@@ -1,19 +1,44 @@
-# Hi there, I'm TheDoctor! 👨‍⚕️
+<div align="center">
 
-[![Join My Discord Server](https://img.shields.io/discord/1046214271517868093?color=5BCDEC&label=Discord&logo=discord&logoColor=white)](https://discord.gg/8sa3f6ZpJk) 
-![Profile Views](https://komarev.com/ghpvc/?username=TheDoctor200&color=brightgreen) 
-![Followers](https://img.shields.io/github/followers/TheDoctor200?label=Followers&style=social)
+# 👨‍⚕️ TheDoctor
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=24&lines=Hello+everyone!;I'm+TheDoctor;Python+Developer;Learning+Web+Development)
+### *Passionate Developer | Python Enthusiast | Web Development Explorer*
+
+<div align="center">
+  
+[![Discord](https://img.shields.io/discord/1046214271517868093?color=7289DA&label=Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/8sa3f6ZpJk)
+[![Profile Views](https://komarev.com/ghpvc/?username=TheDoctor200&color=blueviolet&style=for-the-badge&label=Profile+Views)](https://github.com/TheDoctor200)
+[![Followers](https://img.shields.io/github/followers/TheDoctor200?label=Followers&style=for-the-badge&color=blue)](https://github.com/TheDoctor200?tab=followers)
+
+</div>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World%21+I'm+TheDoctor+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F;Python+Developer+%7C+Problem+Solver;Building+Amazing+Web+Applications;Always+Learning+Something+New!" alt="Typing SVG" />
 
 ---
-## 🚀 Tech Toolbox
-<p align="center">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/> &nbsp;
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" width="40" height="40"/> &nbsp;
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" width="40" height="40"/> &nbsp;
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/> &nbsp;
-</p>
+
+## 🛠️ **Tech Arsenal**
+
+<div align="center">
+
+### **Programming Languages**
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Frameworks & Libraries**
+![FastAPI](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### **Tools & Technologies**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
