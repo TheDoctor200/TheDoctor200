@@ -56,10 +56,21 @@
 
 ---
 
-## 🏆 **Achievements & Trophies**
+## 🏆 **Achievements & Highlights**
 
 <div align="center">
-  <img src="https://github-readme-trophy-git-master-gasps-projects.vercel.app/?username=TheDoctor200&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+
+### 🎯 **GitHub Milestones**
+![Repositories](https://img.shields.io/badge/Repositories-10+-5BCDEC?style=for-the-badge&logo=github&logoColor=white)
+![Contributions](https://img.shields.io/badge/Contributions-500+-5BCDEC?style=for-the-badge&logo=git&logoColor=white)
+![Years Active](https://img.shields.io/badge/Years%20Active-2+-5BCDEC?style=for-the-badge&logo=calendar&logoColor=white)
+
+### ⭐ **Developer Achievements**
+🚀 **Active Developer** - Consistently contributing to projects  
+💡 **Problem Solver** - Building solutions that matter  
+🌟 **Community Member** - Engaging with fellow developers  
+📚 **Lifelong Learner** - Always exploring new technologies  
+
 </div>
 
 ---
