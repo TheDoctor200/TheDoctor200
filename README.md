@@ -63,19 +63,49 @@
 
 ---
 
-## 🌱 Fun Fact
+## 🚀 **What I'm Working On**
 
-- **Gaming is much more fun than programming! 🎮**
+<div align="center">
+
+```python
+class TheDoctor:
+    def __init__(self):
+        self.name = "TheDoctor"
+        self.role = "Python Developer"
+        self.language_spoken = ["Python", "JavaScript", "HTML", "CSS"]
+        self.current_focus = "Web Development & Backend APIs"
+        self.fun_fact = "Gaming is much more fun than programming! 🎮"
+    
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = TheDoctor()
+me.say_hi()
+```
+
+</div>
 
 ---
 
-## 🏆 Activity Graph
+## 📊 **Development Activity**
 
-<p align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDoctor200&bg_color=0d0c0c&color=5cfcff&line=00ccff&point=1a4675&area=true&hide_border=true" alt="Activity Graph"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheDoctor200&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+</div>
+
+---
+
+## 💫 **Fun Facts About Me**
+
+<div align="center">
+
+🎮 **Gaming enthusiast** - Love exploring virtual worlds when I'm not coding  
+🐍 **Python lover** - It's not just a language, it's a lifestyle  
+🌱 **Always learning** - Currently diving deep into web development  
+💻 **Problem solver** - I enjoy turning ideas into reality through code  
+🎯 **Goal-oriented** - Always working towards the next milestone  
+
+</div>
 
 ---
 
