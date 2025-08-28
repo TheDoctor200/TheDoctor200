@@ -109,14 +109,32 @@ me.say_hi()
 
 ---
 
-### 📫 Connect with me
+## 🤝 **Let's Connect!**
 
-- [Discord Server](https://discord.gg/8sa3f6ZpJk) 🎮
-- [My GitHub Profile](https://github.com/TheDoctor200)
-- Donate me something if you like my work and support me: 0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2 (ETH)
+<div align="center">
+
+### *Feel free to reach out if you want to collaborate on projects or just chat about tech!*
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8sa3f6ZpJk)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TheDoctor200)
+
+### 💝 **Support My Work**
+
+If you like what I do and want to support my journey:
+
+[![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://etherscan.io/)
+
+**ETH Address:** `0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2`
+
 ---
 
+<div align="center">
 
+### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&animation=twinkling&fontColor=gradient" width="100%"/>
 
+</div>
+
+</div>
 
