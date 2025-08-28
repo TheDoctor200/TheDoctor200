@@ -46,12 +46,12 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8D866" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=5BCDEC" alt="Top Languages"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@
 ## 🏆 **Achievements & Trophies**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TheDoctor200&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=TheDoctor200&theme=onedark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
