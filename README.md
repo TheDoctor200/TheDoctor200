@@ -42,24 +42,24 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 **GitHub Analytics**
 
-<p align="center">
-  <a href="https://github.com/TheDoctor200">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="GitHub Streak" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="180px"/>
-  </a>
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=10&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=F8D866" alt="Top Languages"/>
+</div>
 
 ---
 
-## 🌐 Top Languages
+## 🏆 **Achievements & Trophies**
 
-<p align="center">
-  <a href="https://github.com/TheDoctor200">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165px"/>
-  </a>
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TheDoctor200&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
 
 ---
 
