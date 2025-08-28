@@ -124,8 +124,10 @@ me.say_hi()
 If you like what I do and want to support my journey:
 
 [![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)](https://etherscan.io/)
+[![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)](https://litecoin.org/)
 
-**ETH Address:** `0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2`
+**ETH Address:** `0xfbe3E2337e7bCfC9245f0C2eAeF16597f0Bb2Dc2`  
+**LTC Address:** `0x4338665CBB7B2485A8855A139b75D5e34AB0DB94`
 
 ---
 
