@@ -146,7 +146,8 @@ If you like what I do and want to support my journey:
 
 ### ⭐ *"Code is like humor. When you have to explain it, it's bad."* ⭐
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&animation=twinkling&fontColor=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=20c997,40E0D0,00ced1&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontAlignY=75&animation=twinkling&fontColor=ffffff" width="100%"/>
+
 
 </div>
 
