@@ -12,7 +12,7 @@
 
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World%21+I'm+TheDoctor+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F;Python+Developer+%7C+Problem+Solver;Building+Amazing+Web+Applications;Always+Learning+Something+New!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hello+World%21+I'm+TheDoctor+%F0%9F%91%A8%E2%80%8D%E2%9A%95%EF%B8%8F;Python+Developer+%7C+Problem+Solver;Building+Amazing+Web+Applications;Always+Learning+Something+New!" alt="Animated typing introduction" />
 
 ---
 
@@ -46,12 +46,12 @@
 ## 📈 **GitHub Analytics**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=TheDoctor200&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheDoctor200&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=5BCDEC" alt="GitHub stats for TheDoctor200"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=TheDoctor200&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC" alt="GitHub contribution streak for TheDoctor200"/>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=5BCDEC" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheDoctor200&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=5BCDEC" alt="Most used languages on GitHub for TheDoctor200"/>
 </div>
 
 ---
